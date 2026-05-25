@@ -85,6 +85,7 @@ My journey started with curiosity for technology and gradually evolved into buil
 | 🦷 Dental Management System | Complete clinic management platform with appointments, billing, records, and patient workflow management |
 | 💼 Payroll Management System | Employee salary, attendance, payroll processing, and management software |
 | 🤖 MedSupplyAI | AI-powered healthcare and medical supply workflow platform |
+| 🌊 BlueHaven – AI Beach Safety Platform | AI-powered coastal safety and tourism platform with live safety tracking, SOS alerts, tide forecasts, and smart beach insights |
 | 🌐 TechDwar Platform | Startup ecosystem focused on websites, automation, branding, and digital business solutions |
 | 💳 PayNest-Pro | Modern business payment platform interface and transaction solution |
 | ⚙️ Playwright Automation Framework | Web automation and testing framework using Playwright |
