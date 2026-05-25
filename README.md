@@ -1,32 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:1E3A8A&height=220&section=header&text=Divyanshu%20Kanojia&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0B1F3A,100:F5C542&text=Divyanshu%20Kanojia&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=58&descSize=18"/>
 
-<h2>🚀 Founder • Full Stack Developer • AI Builder</h2>
+<br>
 
-<p>
-Building futuristic digital products, SaaS platforms, AI tools, and modern business solutions through <b>TechDwar</b>.
-</p>
-
-<p>
-<a href="https://mrdivyanshu.tech">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://techdwar.world">
-<img src="https://img.shields.io/badge/TechDwar-Official_Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-<p>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F5C542&center=true&vCenter=true&width=900&lines=Building+Modern+Digital+Experiences;Founder+of+TechDwar;Full+Stack+Developer;AI+Automation+Enthusiast;Creating+SaaS+Platforms+%26+Business+Solutions" />
 
 </div>
 
@@ -34,23 +12,43 @@ Building futuristic digital products, SaaS platforms, AI tools, and modern busin
 
 # 💫 About Me
 
-Hi, I'm Divyanshu Kanojia — a passionate developer and startup founder from Maharashtra, India.
+Hi, I'm **Divyanshu Kanojia** — a passionate developer, startup founder, and technology enthusiast from India.
 
-I focus on building:
-- Modern websites
-- SaaS platforms
-- AI-powered systems
-- Business automation tools
-- Scalable digital products
+I specialize in creating:
+- Modern SaaS platforms
+- AI-powered business systems
+- Web applications
+- Automation solutions
+- Startup-focused digital products
 
-Currently working on:
-- 🦷 Dental Clinic SaaS
-- 🏦 Banking Management Software
-- 🌐 Business Websites
-- 🤖 AI Automation Systems
-- 🚀 TechDwar Startup Ecosystem
+As the founder of **TechDwar**, I focus on helping businesses grow through technology, branding, automation, and scalable digital experiences.
 
-I enjoy transforming ideas into real digital experiences with clean UI, smooth performance, and modern technologies.
+I enjoy building products that combine:
+- Clean UI/UX
+- Performance
+- Business logic
+- Automation
+- Modern scalable architecture
+
+---
+
+# 🌐 Digital Presence
+
+<div align="center">
+
+<a href="https://mrdivyanshu.tech">
+<img src="https://img.shields.io/badge/My_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://techdwar.com">
+<img src="https://img.shields.io/badge/TechDwar_Official-0B1F3A?style=for-the-badge&logo=vercel&logoColor=F5C542"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -58,9 +56,23 @@ I enjoy transforming ideas into real digital experiences with clean UI, smooth p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,java,python,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,java,python,php,git,github,vscode,figma"/>
 
 </div>
+
+---
+
+# 🚀 Major Projects
+
+| Project | Description |
+|----------|-------------|
+| 🦷 Dental Management System | Smart clinic management platform with appointments, billing, patient records, and dashboard analytics |
+| 💼 Payroll Management System | Employee payroll, attendance tracking, salary automation, and HR management solution |
+| 🤖 MedSupplyAI | AI-powered healthcare and medical supply workflow platform |
+| 🌐 TechDwar Platform | Startup ecosystem for digital services, AI solutions, branding, and automation |
+| 💳 PayNest-Pro | Modern payment and business transaction platform UI |
+| ⚙️ Playwright Automation Framework | Web testing and automation framework using Playwright |
+| 🏠 Wavelength Enterprise Website | Professional multi-module business website with scalable architecture |
 
 ---
 
@@ -68,54 +80,17 @@ I enjoy transforming ideas into real digital experiences with clean UI, smooth p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyanshuX72&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshuX72&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuX72&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuX72&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuX72&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🦷 Dental Management System | Modern clinic management platform with patient records, appointments, billing, and smart dashboard features |
-| 💼 Payroll Management System | Employee salary, attendance, payroll processing, and management solution |
-| 🤖 MedSupplyAI | AI-powered medical supply and healthcare workflow management platform |
-| 💳 PayNest-Pro | Professional payment and business transaction management template |
-| 🌐 Wavelength Enterprise Site | Multi-module business website with modern UI and scalable architecture |
-| ⚙️ Playwright Automation Framework | Web automation and testing framework built using Playwright |
-| 🚀 TechDwar Ecosystem | Startup-focused digital solutions including SaaS, AI tools, branding, and automation systems |
-| 🧠 AI & Automation Tools | Smart automation workflows, AI integrations, and productivity solutions |
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://mrdivyanshu.tech">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="https://techdwar.world">
-<img src="https://img.shields.io/badge/TechDwar-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -127,27 +102,12 @@ I enjoy transforming ideas into real digital experiences with clean UI, smooth p
 
 # 🎯 Vision
 
-> “Building technology that helps businesses grow smarter, faster, and digitally stronger.”
+> Building technology that helps businesses become smarter, faster, and digitally stronger.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0B0F19&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F5C542,50:0B1F3A,100:050816"/>
 
 </div>
-
-<!--
-**divyanshuX72/divyanshuX72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
