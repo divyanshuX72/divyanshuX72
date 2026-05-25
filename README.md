@@ -1,10 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0B1F3A,100:F5C542&text=Divyanshu%20Kanojia&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:0B1F3A,100:F5C542&text=Divyanshu%20Kanojia&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Founder%20•%20Technology%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F5C542&center=true&vCenter=true&width=950&lines=Building+Modern+Digital+Experiences;Developer+%26+Technology+Enthusiast;Creating+Websites+%26+Business+Solutions;Passionate+About+Technology+%26+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F5C542&center=true&vCenter=true&width=1000&lines=Building+Technology+That+Creates+Impact;Founder+of+TechDwar;Developer+Focused+on+Modern+Digital+Solutions;Creating+Scalable+Platforms+%26+Business+Systems;Passionate+About+Technology+%26+Innovation" />
+
+<br><br>
+
+<a href="https://mrdivyanshu.tech">
+<img src="https://img.shields.io/badge/Portfolio-MrDivyanshu.tech-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://techdwar.com">
+<img src="https://img.shields.io/badge/Startup-TechDwar.com-0B1F3A?style=for-the-badge&logo=vercel&logoColor=F5C542"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divyanshu-kanojia/">
+<img src="https://img.shields.io/badge/LinkedIn-Divyanshu_Kanojia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -12,19 +26,25 @@
 
 # 💫 About Me
 
-Hi, I'm **Divyanshu Kanojia** — a passionate developer and technology enthusiast from India.
+Hi, I'm **Divyanshu Kanojia** — a developer, founder, and technology enthusiast passionate about building meaningful digital products and modern business solutions.
 
-I enjoy building modern websites, automation systems, business platforms, and digital products with clean UI and practical functionality.
+I focus on creating scalable platforms, automation systems, business software, and modern web experiences that combine functionality, performance, and clean design.
 
-Focused on:
-- Web Development
-- Business Solutions
-- Automation Systems
-- AI Integrations
-- Modern UI/UX
-- Scalable Digital Products
+As the founder of **TechDwar**, I work on digital solutions that help businesses improve their online presence, workflows, branding, and automation systems.
 
-Currently working on real-world projects including healthcare systems, payroll platforms, automation tools, and business websites.
+My journey started with curiosity for technology and gradually evolved into building real-world projects, startup ideas, automation frameworks, and business-oriented software systems.
+
+---
+
+# 🚀 What I Focus On
+
+- Modern Web Development
+- Business Platforms & Systems
+- Startup Technology Solutions
+- Automation & Productivity Tools
+- AI-Powered Digital Experiences
+- UI/UX Focused Applications
+- Scalable Software Architecture
 
 ---
 
@@ -33,15 +53,15 @@ Currently working on real-world projects including healthcare systems, payroll p
 <div align="center">
 
 <a href="https://mrdivyanshu.tech">
-<img src="https://img.shields.io/badge/My_Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-111827?style=for-the-badge"/>
 </a>
 
 <a href="https://techdwar.com">
-<img src="https://img.shields.io/badge/TechDwar_Official-0B1F3A?style=for-the-badge&logo=vercel&logoColor=F5C542"/>
+<img src="https://img.shields.io/badge/🚀_TechDwar-Official_Website-0B1F3A?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/divyanshu-kanojia/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Profile-0A66C2?style=for-the-badge"/>
 </a>
 
 </div>
@@ -52,7 +72,7 @@ Currently working on real-world projects including healthcare systems, payroll p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,java,python,php,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,firebase,java,python,php,git,github,vscode,figma"/>
 
 </div>
 
@@ -62,13 +82,14 @@ Currently working on real-world projects including healthcare systems, payroll p
 
 | Project | Description |
 |----------|-------------|
-| 🦷 Dental Management System | Clinic management platform with appointments, billing, and patient records |
-| 💼 Payroll Management System | Payroll and employee management solution |
-| 🤖 MedSupplyAI | AI-powered healthcare workflow platform |
-| 💳 PayNest-Pro | Modern payment platform interface |
-| ⚙️ Playwright Automation Framework | Automation and testing framework |
-| 🏠 Wavelength Enterprise Website | Professional multi-module business website |
-| 🌐 TechDwar Platform | Digital solutions and automation ecosystem |
+| 🦷 Dental Management System | Complete clinic management platform with appointments, billing, records, and patient workflow management |
+| 💼 Payroll Management System | Employee salary, attendance, payroll processing, and management software |
+| 🤖 MedSupplyAI | AI-powered healthcare and medical supply workflow platform |
+| 🌐 TechDwar Platform | Startup ecosystem focused on websites, automation, branding, and digital business solutions |
+| 💳 PayNest-Pro | Modern business payment platform interface and transaction solution |
+| ⚙️ Playwright Automation Framework | Web automation and testing framework using Playwright |
+| 🏠 Wavelength Enterprise Website | Professional multi-module business website with scalable architecture |
+| 🧠 AI Automation Tools | Automation systems and AI workflow integrations for productivity and business operations |
 
 ---
 
@@ -82,9 +103,17 @@ Currently working on real-world projects including healthcare systems, payroll p
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuX72&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -94,9 +123,20 @@ Currently working on real-world projects including healthcare systems, payroll p
 
 ---
 
+# 🏆 Achievements & Journey
+
+- 🥇 Winner of coding and hackathon competitions
+- 🚀 Founder of TechDwar startup ecosystem
+- 💻 Built multiple real-world business projects
+- 🌐 Worked on client websites and digital platforms
+- 🤖 Focused on automation and AI-based solutions
+- 📈 Continuously learning and building modern technologies
+
+---
+
 # 🎯 Vision
 
-> Building meaningful digital experiences through technology, creativity, and continuous learning.
+> To build impactful technology solutions that help businesses and individuals grow in the digital world through innovation, creativity, and modern software systems.
 
 ---
 
