@@ -118,7 +118,7 @@ My journey started with curiosity for technology and gradually evolved into buil
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divyanshuX72/divyanshuX72/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/divyanshuX72/divyanshuX72/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
