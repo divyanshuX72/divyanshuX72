@@ -5,7 +5,7 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F5C542&center=true&vCenter=true&width=1000&lines=Building+Technology+That+Creates+Impact;Founder+of+TechDwar;Developer+Focused+on+Modern+Digital+Solutions;Creating+Scalable+Platforms+%26+Business+Systems;Passionate+About+Technology+%26+Innovation" />
-
+ 
 <br><br>
 
 <a href="https://mrdivyanshu.tech">
