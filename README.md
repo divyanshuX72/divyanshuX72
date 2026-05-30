@@ -87,7 +87,6 @@ My journey started with curiosity for technology and gradually evolved into buil
 | 🤖 MedSupplyAI | AI-powered healthcare and medical supply workflow platform |
 | 🌊 BlueHaven – AI Beach Safety Platform | AI-powered coastal safety and tourism platform with live safety tracking, SOS alerts, tide forecasts, and smart beach insights |
 | 🌐 TechDwar Platform | Startup ecosystem focused on websites, automation, branding, and digital business solutions |
-| 💳 PayNest-Pro | Modern business payment platform interface and transaction solution |
 | ⚙️ Playwright Automation Framework | Web automation and testing framework using Playwright |
 | 🏠 Wavelength Enterprise Website | Professional multi-module business website with scalable architecture |
 | 🧠 AI Automation Tools | Automation systems and AI workflow integrations for productivity and business operations |
