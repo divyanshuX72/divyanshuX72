@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:0B1F3A,100:F5C542&text=Divyanshu%20Kanojia&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Founder%20•%20Technology%20Enthusiast&descAlignY=58&descSize=20"/>
-
+ 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F5C542&center=true&vCenter=true&width=1000&lines=Building+Technology+That+Creates+Impact;Founder+of+TechDwar;Developer+Focused+on+Modern+Digital+Solutions;Creating+Scalable+Platforms+%26+Business+Systems;Passionate+About+Technology+%26+Innovation" />
