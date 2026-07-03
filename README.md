@@ -93,7 +93,7 @@ My journey started with curiosity for technology and gradually evolved into buil
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics 
 
 <div align="center">
 
