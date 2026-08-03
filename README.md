@@ -1,147 +1,187 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:0B1F3A,100:F5C542&text=Divyanshu%20Kanojia&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Founder%20•%20Technology%20Enthusiast&descAlignY=58&descSize=20"/>
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050816&height=180&section=header&text=Divyanshu%20Kanojia&fontSize=44&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn" width="100%"/>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=F5C542&center=true&vCenter=true&width=1000&lines=Building+Technology+That+Creates+Impact;Founder+of+TechDwar;Developer+Focused+on+Modern+Digital+Solutions;Creating+Scalable+Platforms+%26+Business+Systems;Passionate+About+Technology+%26+Innovation" />
- 
+<p><b>Founder&nbsp;•&nbsp;Full-Stack Developer</b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+Technology+That+Moves+Businesses+Forward;Enterprise+Web+%26+Product+Engineering;Scalable+Systems.+Clean+Interfaces." />
+
 <br><br>
 
-<a href="https://mrdivyanshu.tech">
-<img src="https://img.shields.io/badge/Portfolio-MrDivyanshu.tech-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://techdwar.com">
-<img src="https://img.shields.io/badge/Startup-TechDwar.com-0B1F3A?style=for-the-badge&logo=vercel&logoColor=F5C542"/>
-</a>
-
-<a href="https://www.linkedin.com/in/divyanshu-kanojia/">
-<img src="https://img.shields.io/badge/LinkedIn-Divyanshu_Kanojia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💫 About Me
-
-Hi, I'm **Divyanshu Kanojia** — a developer, founder, and technology enthusiast passionate about building meaningful digital products and modern business solutions.
-
-I focus on creating scalable platforms, automation systems, business software, and modern web experiences that combine functionality, performance, and clean design.
-
-As the founder of **TechDwar**, I work on digital solutions that help businesses improve their online presence, workflows, branding, and automation systems.
-
-My journey started with curiosity for technology and gradually evolved into building real-world projects, startup ideas, automation frameworks, and business-oriented software systems.
-
----
-
-# 🚀 What I Focus On
-
-- Modern Web Development
-- Business Platforms & Systems
-- Startup Technology Solutions
-- Automation & Productivity Tools
-- AI-Powered Digital Experiences
-- UI/UX Focused Applications
-- Scalable Software Architecture
-
----
-
-# 🌐 Digital Presence
-
-<div align="center">
-
-<a href="https://mrdivyanshu.tech">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-111827?style=for-the-badge"/>
-</a>
-
-<a href="https://techdwar.com">
-<img src="https://img.shields.io/badge/🚀_TechDwar-Official_Website-0B1F3A?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/divyanshu-kanojia/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Profile-0A66C2?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,firebase,java,python,php,git,github,vscode,figma"/>
-
-</div>
-
----
-
-# 🚀 Major Projects
-
-| Project | Description |
-|----------|-------------|
-| 🦷 Dental Management System | Complete clinic management platform with appointments, billing, records, and patient workflow management |
-| 💼 Payroll Management System | Employee salary, attendance, payroll processing, and management software |
-| 🤖 MedSupplyAI | AI-powered healthcare and medical supply workflow platform |
-| 🌊 BlueHaven – AI Beach Safety Platform | AI-powered coastal safety and tourism platform with live safety tracking, SOS alerts, tide forecasts, and smart beach insights |
-| 🌐 TechDwar Platform | Startup ecosystem focused on websites, automation, branding, and digital business solutions |
-| ⚙️ Playwright Automation Framework | Web automation and testing framework using Playwright |
-| 🏠 Wavelength Enterprise Website | Professional multi-module business website with scalable architecture |
-| 🧠 AI Automation Tools | Automation systems and AI workflow integrations for productivity and business operations |
-
----
-
-# 📊 GitHub Analytics 
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshuX72&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuX72&theme=tokyonight&hide_border=true"/>
+<a href="https://mrdivyanshu.tech"><img src="https://img.shields.io/badge/Portfolio-mrdivyanshu.tech-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://techdwar.com"><img src="https://img.shields.io/badge/TechDwar-techdwar.com-0B1F3A?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://linkedin.com/in/divyanshu-kanojia"><img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Kanojia-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://github.com/divyanshuX72"><img src="https://img.shields.io/badge/GitHub-divyanshuX72-0B1F3A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=050816" /></a>
 
 </div>
 
 <br>
 
+<h2 align="center">About</h2>
+
+I'm Divyanshu Kanojia — a full-stack developer and founder building software for businesses to actually run on. My work spans clinic management systems, payroll platforms, safety-monitoring tools, and enterprise websites, usually starting at the architecture and ending at what a team uses in production.
+
+I founded **TechDwar** to bring that same discipline to client work — websites, automation, and internal systems built to hold up, not just launch well. I care about interfaces that stay out of the way, and backends that don't fall over under real usage.
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Current Focus</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>TechDwar Platform</b><br><br>
+      <sub>Client websites, branding systems, and internal automation</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>DentalOne SaaS</b><br><br>
+      <sub>Cloud clinic management — scheduling, billing, records</sub>
+    </td>
+    <td width="34%" align="center">
+      <b>Enterprise Web Applications</b><br><br>
+      <sub>Production websites built for scale and upkeep</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>Automation Systems</b><br><br>
+      <sub>Workflows that remove manual, repeatable busywork</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>Modern UI Engineering</b><br><br>
+      <sub>Interfaces built for clarity over decoration</sub>
+    </td>
+    <td width="34%" align="center">
+      <b>Scalable Backend Systems</b><br><br>
+      <sub>APIs and data layers built to grow with load</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Technology Stack</h2>
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuX72&theme=tokyo-night&hide_border=true"/>
+<sub><b>LANGUAGES &amp; MARKUP</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php&theme=dark" />
+
+<br><br>
+
+<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express&theme=dark" />
+
+<br><br>
+
+<sub><b>DATA &amp; INFRASTRUCTURE</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+<br><br>
+
+<sub><b>TOOLS &amp; DESIGN</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
+<br>
+
 ---
 
-# 🐍 Contribution Snake
+<br>
+
+<h2 align="center">Featured Projects</h2>
+
+| Project | Overview | Focus |
+|:--|:--|:--|
+| **DentalOne** | Cloud-based clinic management platform — appointments, billing, inventory, and patient records in one system. | Healthcare SaaS |
+| **TechDwar** | Digital business platform delivering websites, branding, automation, and software for growing companies. | Business Platform |
+| **Payroll Management System** | Employee management covering attendance, salary processing, payroll generation, and reporting. | HR & Payroll |
+| **BlueHaven** | Beach safety platform with live monitoring, emergency alerts, weather insights, and smart recommendations. | Public Safety |
+| **Playwright Automation Framework** | Browser automation and testing framework for reliable, repeatable QA workflows. | QA & Automation |
+| **Wavelength** | Enterprise website built on a scalable, modular architecture. | Enterprise Web |
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=divyanshuX72&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" /></td>
+    <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuX72&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=FFFFFF&langs_count=8" /></td>
+  </tr>
+</table>
+
+<p align="center">
+<img width="65%" src="https://streak-stats.demolab.com/?user=divyanshuX72&hide_border=true&background=0B1F3A&border=0B1F3A&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF99" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuX72&hide_border=true&bg_color=0B1F3A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&title_color=D4AF37" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=divyanshuX72&color=0B1F3A&style=flat-square&label=Profile+Views" />
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Achievements</h2>
+
+- Founded and lead **TechDwar**, a digital solutions startup serving real clients
+- Winner, collegiate hackathon and coding competitions
+- Shipped production platforms across healthcare, HR, and public-safety domains
+- Built business software end-to-end — from architecture to deployment
+- Designed automation systems that cut down manual, repeatable work
+- Steadily expanding into new frameworks and engineering practices
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
-![snake gif](https://github.com/divyanshuX72/divyanshuX72/blob/output/github-contribution-grid-snake.svg)
+<a href="https://mrdivyanshu.tech"><img src="https://img.shields.io/badge/Portfolio-mrdivyanshu.tech-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://techdwar.com"><img src="https://img.shields.io/badge/TechDwar-techdwar.com-0B1F3A?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://linkedin.com/in/divyanshu-kanojia"><img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Kanojia-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=050816" /></a>
+<a href="https://github.com/divyanshuX72"><img src="https://img.shields.io/badge/GitHub-divyanshuX72-0B1F3A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=050816" /></a>
 
 </div>
 
----
+<!-- Want an email button too? Drop your address into this badge and add it above:
+https://img.shields.io/badge/Email-you@domain.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=050816 -->
 
-# 🏆 Achievements & Journey
+<br><br>
 
-- 🥇 Winner of coding and hackathon competitions
-- 🚀 Founder of TechDwar startup ecosystem
-- 💻 Built multiple real-world business projects
-- 🌐 Worked on client websites and digital platforms
-- 🤖 Focused on automation and AI-based solutions
-- 📈 Continuously learning and building modern technologies
+<p align="center"><i>"I build things that are meant to still be running next year."</i></p>
 
----
+<br>
 
-# 🎯 Vision
-
-> To build impactful technology solutions that help businesses and individuals grow in the digital world through innovation, creativity, and modern software systems.
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F5C542,50:0B1F3A,100:050816"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F3A&height=120&section=footer&animation=fadeIn" width="100%"/>
